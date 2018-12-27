@@ -141,7 +141,7 @@
    of access to ecological information.  Importantly, such expressive
    conventions do not constitute content and representation.  As José
    Medina (2013) puts it, basic convention-based expression "should
-   not be understood "on the Gricean model of conventional signs, that
+   not be understood on the Gricean model of conventional signs, that
    is, as involving or requiring fully formed communicative intentions
    and internal representations. Expressive behavior is not
    self-reflective intentional-referential behavior among rational
@@ -266,11 +266,12 @@
    to make myriad passive and active attentional decisions that become
    in some large part what is unique about the life experience,
    perspectives, and directions of any particular person.  As social
-   creatures we enter a world with a wealth of tools for directing
-   attention in useful ways, and games or systems establishing utility
-   of actions.  Despite all of culture's complexity, there is always
-   one thing happening that makes content possible: scaffolded
-   processes of attending in game-like social contexts.
+   creatures we enter a world that offers us a wealth of pre-existing
+   tools for directing attention in useful ways, and games or systems
+   establishing utility of actions.  Despite all of culture's
+   complexity, there is always one thing happening that makes content
+   possible: scaffolded processes of attending in game-like social
+   contexts.
 
    For designers of interactive computing environments, including
    programming languages and other kinds of systems in need of
@@ -466,12 +467,17 @@
      http://b-ok.cc/book/864226/e0dd92
    + "Knowledge and the Flow of Information" Dretske 1981
      http://b-ok.cc/book/819455/a1f712
-   + "Socially Situated AI: What It Mean and Why It Matters" Sengers
+   + "Intelligence without representation" Brooks 1991
+     https://people.csail.mit.edu/brooks/papers/representation.pdf
+   + "Socially Situated AI: What It Means and Why It Matters" Sengers
      1996
      https://pdfs.semanticscholar.org/1414/7b6006180a87c139a29f0cc1584b8437e915.pdf
+   + "Situated Cognition: On Human Knowledge and Computer
+     Representations" Clancey 1997
+     http://b-ok.cc/book/859418/09e510
    + "Social cognition, joint attention, and communicative competence
-     from 9 to 15 months of age."  Carpenter M, Nagell K, Tomasello M
-     1998 http://booksc.xyz/book/15451904/9e3c39
+     from 9 to 15 months of age."  Carpenter, Nagell, Tomasello 1998
+     http://booksc.xyz/book/15451904/9e3c39
    + "Origins of Human Communication" Tomasello 2008
      http://b-ok.cc/book/541274/39859f
    + "Physics, Topology, Logic and Computation: A Rosetta Stone" Baez
@@ -480,9 +486,14 @@
      http://b-ok.cc/book/2554656/1b7ea8
    + "Laws and Conventions in Language-Related Behaviors" Golonka 2015
      http://booksc.xyz/book/50082310/1e8631
-   + "Strange Tools: Art and Human Nature" Alva Noë 2015
+   + "Strange Tools: Art and Human Nature" Noë 2015
      http://b-ok.cc/book/2640649/b1b44d
-   + "Evolving Enactivism" Hutto & Myin 2017
-     http://b-ok.cc/book/2947353/09d772
    + "Effective Programs" Hickey 2017
      https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/EffectivePrograms.md
+   + "Evolving Enactivism" Hutto & Myin 2017
+     http://b-ok.cc/book/2947353/09d772
+   + "Designing for Embodied Being-in-the-World: A Critical Analysis
+     of the Concept of Embodiment in the Design of Hybrids" van Dijk 2018
+     http://www.mdpi.com/2414-4088/2/1/7/pdf
+   + "Reflections on Dynamicland" Wittke 2018
+     https://medium.com/@wittkensis/reflections-on-dynamicland-65158b06196
