@@ -1,6 +1,6 @@
 * Propositions Are Not Types: Naturalizing Information Content in Computing
 
-  Overview: "the hard problem of content" (Hutto & Myin, 2013) is an
+  Overview: "the hard problem of content" (Hutto & Myin 2013) is an
   argument that information as it exists in physical systems is only
   covariance information, which does not inherently have properties
   such as truth, reference, and implication required for it to work as
@@ -20,16 +20,17 @@
    heard mostly in university math and computer science departments
    has become a popular slogan in applied statically typed functional
    programming circles.  The message that inspires this movement:
-   "propositions are types!  programs are proofs!"  It's not a new
-   idea that leading figures such as Philip Wadler and Simon Peyton
-   Jones promote, it is a well-established finding that unfolded over
-   a period from 1934 to 1969 in the work of mathematicians Haskell
-   Curry and William Alvin Howard.  From a purely mathematical
-   standpoint there is nothing false about the Curry-Howard
-   Correspondence as it is called.  It is indeed useful, as it allows
-   computer programs to be analyzed using the tools of formal logic,
-   everything from proof assistants to compile-time type-checkers in
-   general-purpose programming languages.  Pretty neat.
+   "propositions are types!  programs are proofs!" (Baez & Stay 2009)
+   It's not a new idea that leading figures such as Philip Wadler and
+   Simon Peyton Jones promote, it is a well-established finding that
+   unfolded over a period from 1934 to 1969 in the work of
+   mathematicians Haskell Curry and William Alvin Howard.  From a
+   purely mathematical standpoint there is nothing false about the
+   Curry-Howard Correspondence as it is called.  It is indeed useful,
+   as it allows computer programs to be analyzed using the tools of
+   formal logic, everything from proof assistants to compile-time
+   type-checkers in general-purpose programming languages.  Pretty
+   neat.
 
    Where we start to run into problems is that the emboldened typed
    functional language communities increasingly advocate for a radical
