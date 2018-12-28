@@ -512,3 +512,11 @@
      http://www.mdpi.com/2414-4088/2/1/7/pdf
    + "Reflections on Dynamicland" Wittke 2018
      https://medium.com/@wittkensis/reflections-on-dynamicland-65158b06196
+
+** License
+
+   Robert Levy, December 2018
+
+   https://creativecommons.org/licenses/by/4.0/
+
+   Distributed Under License CC BY 4.0
