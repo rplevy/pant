@@ -447,19 +447,18 @@
    companies pour research money into nebulous efforts toward
    "cognitive computing" as a goal of agent-based computing approaches
    such as robotic process automation.  There is new life being
-   breathed into efforts in computing systems that augment of human
-   agency, human-machine symbiosis, and intelligence amplification.
-   The promise of "the metaverse" (the situated internet) is being
-   cultivated in emerging web standards for augmented reality on the
-   open internet. And there is a great deal of activity on freeing
-   users from centralized tech platforms, putting users back in the
-   driver seat in terms of privacy and ownership of our own data.
-   This helps to make the prospect of socially situated metaverse more
-   palatable and realizable given the depth and intimacy of
-   integration of computing into personal and social experiences
-   required.  It in many ways feels like the ideal setting for the
-   emergence of socially situated computing.  We'll have to develop it
-   out and see where it takes us.
+   breathed into augmenting human agency, human-machine symbiosis, and
+   intelligence amplification.  The promise of "the metaverse" (the
+   situated internet) is being cultivated in emerging web standards
+   for augmented reality on the open internet. And there is a great
+   deal of activity on freeing users from centralized tech platforms,
+   putting users back in the driver seat in terms of privacy and
+   ownership of our own data.  This helps to make the prospect of
+   socially situated metaverse more palatable and realizable given the
+   depth and intimacy of integration of computing into personal and
+   social experiences required.  It in many ways feels like the ideal
+   setting for the emergence of socially situated computing.  We'll
+   have to develop it out and see where it takes us.
 
 ** References
 
