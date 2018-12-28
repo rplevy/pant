@@ -293,8 +293,8 @@
    encompassing "situated computing".  The idea of situated computing
    or situated programming is that computing is embedded more directly
    into situations than it traditionally has been, putting systems
-   into shorter real-time feedback loop with events of interest to its
-   users.  Rich Hickey has emphasized the importance of this
+   into shorter real-time feedback loops with events of interest to
+   its users.  Rich Hickey has emphasized the importance of this
    embeddedness and feedback for creating reliably effective software
    systems, whereas others such as Jelle van Dijk, M Eifler, and Bret
    Victor have focused on the implications of immersive technologies
@@ -307,14 +307,15 @@
    agent-centered, context-sensitive, and feedback-oriented.
 
    Phoebe Sengers (1996) coined the term “socially situated AI” to
-   refer to approaches to AI that are not only aware of the agent its
-   its physical environment, but also in its social environment.
-   Expanding the scope of this idea a bit, social-world-involving
-   augmentation of human agents is what I am calling socially situated
-   computing. It is my contention that from an HCI perspective, an AI
-   perspective, and a generally informatic perspective, embedding of
-   computing into the contexts where content is maintained is a
-   requirement in order to make systems content-aware.
+   refer to approaches to AI that are not only aware of the agent's
+   relationship to its physical environment, but also its social
+   environment.  Expanding the scope of this idea a bit,
+   social-world-involving software augmentation of experience is what
+   I am calling socially situated computing. It is my contention that
+   from an HCI perspective, an AI perspective, and a generally
+   informatic perspective, embedding of computing into the contexts
+   where content is maintained is a requirement in order to make
+   systems content-aware.
 
 ** Narrative Process Scaffolding
 
@@ -332,15 +333,15 @@
    sharing, following-into, and directing are intuitively accessible
    to 9-to-12-month old babies, so they make for an effective deictic
    vocabulary for scaffolding attention /in situ/.  This becomes a
-   human-computer interaction model when we apply it to the idea of
-   software agents acting on behalf of users, as an interface to
-   machine-executed behaviors.  Software agents for their part need
-   data that let them optimize decisions to maintain attentional
-   preferences expressed by users who they act on behalf of.  What I
-   am proposing is that instrumenting and augmenting user actions of
-   attending, at the granularity of Tomasello's attention primitives,
-   provides the kind of data needed for scaffolding of software
-   agents.
+   human-computer interaction model when we apply it as a way of
+   instructionally scaffolding software agents acting on behalf of
+   users, as an interface to machine-executed behaviors.  Software
+   agents for their part need data that let them optimize decisions to
+   maintain attentional preferences expressed by users who they act on
+   behalf of.  What I am proposing is that instrumenting and
+   augmenting user actions of attending, at the granularity of
+   Tomasello's attentional skill primitives, provides the kind of data
+   needed to expressively scaffold software agents.
 
    I call this approach "narrative process scaffolding". The name and
    idea evolved in part from consideration of "robotic process
@@ -361,25 +362,25 @@
    importance or helpful toward this center.  And then there is the
    decision to exit or continue, either out of boredom or due to
    success of some kind.  Whatever the case, we would like to keep
-   track of this experience (with care to own and share our data
-   responsibly using p2p event infrastructure ideally) so that we can
-   learn what works and repeat our successes, whether the "we" here
-   refers to our software agents or our efforts as people.
+   track of this experience so that we can learn what works and repeat
+   our successes, whether the "we" doing the work here is software
+   agents or people.
 
 ** Attentional Resource Allocation
 
    Because a person's time spent attending is a scarce resource, the
-   data of attending constitutes an honest signal of causal
-   motivation.  Additionally, centers result in "getting somewhere",
-   whether it be an advantageous state of possibility to attend to
-   something else, or an overtly conventional form of point-scoring.
-   The context I envision for these peer exchanges is the notion of a
-   personal attention operating system that manages attentional
+   data of attending constitutes data on what is contextually
+   important to a user.  Additionally, centers result in "getting
+   somewhere", whether it be an advantageous state of possibility to
+   attend to something else, an overtly conventional form of
+   point-scoring, or a physical state change.  The context I envision
+   for these peer exchanges is the notion of personal attention
+   operating systems whereby software agents manage attentional
    resources in line with scaffolded objectives.  Individually it is
    in one's interests to have agents optimize the allocation of
    attention, and that is what such a system is for.  Between
-   participants in social environments a protocol for negotiating
-   targets of attention and tracking the utility of processes of
+   participants in social environments, a protocol for negotiating
+   attentional objectives and tracking utility in processes of
    engaging together is what allows personal attention systems to be a
    nexus of socially situated computing.  I anticipate the reusable
    scaffolding exchanged resembling causal graphical models connecting
@@ -401,14 +402,15 @@
    to be staked out in our systems.
 
    The narrow prescription given here for "narrative process
-   scaffolding" is still speculative and untested, but if it can be
+   scaffolding" is still speculative and untested, but if it is
    developed into a robust practical computing paradigm, it is
-   certainly preferable over the formal propositional alternative that
-   we have several strong reasons to believe can't work.  NPS is at
-   least guided by findings on how information content does appear to
-   work.  Further, if NPS turns out to be flawed in its approach, it
-   should be kept in mind that socially situated computing is a space
-   wide open for creative design and implementation ideas.
+   preferable over the formal propositional program that we have
+   stated strong reasons to believe can't work.  NPS in contrast is
+   guided by findings on how information content does appear to work.
+   Further, if NPS turns out to be somehow irrecoverably flawed in its
+   approach, it should be kept in mind that this is just one idea of
+   how to design socially situated computing systems.  The space is a
+   wide open frontier for creative and scientific exploration.
 
 ** Epilogue: A Third Cybernetics?
 
