@@ -93,7 +93,7 @@
    self-contained information-as-content when all we've given them is
    information-as-covariance lacking any way of participating in its
    larger social/pragmatic context.  What we should look for instead
-   are ways of scaffolding proppsitional interactions in effective
+   are ways of scaffolding propositional interactions in effective
    world-involving ways.  As Wittgenstein surmised after a career
    spent grappling with the basic nature of propositions, propositions
    themselves do not contain information about how things stand,
@@ -163,7 +163,7 @@
      cognitive capacities can be scaffolded in particular ways.  The
      practices in question are claim-making practices-- and they are
      special because they require participants not only to respond to
-     things but to do so by *representing them as being thus and so*
+     things but to do so by /representing them as being thus and so/
      independently of what might be said about them." (italics theirs)
 
      ...
@@ -202,7 +202,7 @@
    earlier in child development than the "theory of mind" skills.
    Because of their early development and marked divergence from other
    primates' functionally similar abilities, Tomasello theorizes that
-   they constitute an innate and evolved "insfrastructure of shared
+   they constitute an innate and evolved "infrastructure of shared
    intentionality" supporting cooperative communication that paves the
    way for complex tools of cooperation such as spoken language.
 
@@ -217,45 +217,49 @@
    cooperative activity. This gives us the necessary ingredients for
    the social construction of claim-making scenarios, such that one
    might play the game and be successful or fail, with a given
-   propositional move, at acheiving socially defined objectives in a
+   propositional move, at achieving socially defined objectives in a
    shared environment.
 
 ** Scaffolding, Constructions, and Conceptual Metaphor
 
-   I would like to explore something at this point that harkens back
-   the insufficiency of formal propositionality discussed in Part 1 of
-   this article.  There is an objection to our neo-Wittgensteinian
-   claim (that propositions are less like pictures or containers, and
-   more like moves played in games), the objection being that any such
-   game moves can only be smaller fragments of world models, and that
-   the problem has simply shifted to a finer grain.  We have already
-   seen one way in which this is not the case, that is in
-   pre-linguistic deictic social skills of joint attentional
-   engagement.  But that is not yet true claim-making, so what of the
-   scenario of mature claim-making contexts?  The fact is that this
-   objection ignores how language actually works.  For consistency, I
-   will assume the usage-based model of language constructions as
-   tools (which I also happen believe is true, given its elegance and
-   empirical track record.)  Humans are at base engaged in joint
-   attention for the purpose of cooperating on activities, and
-   language affords powerful leverage in those processes.  As an
-   example, around 2-3 years of age children begin to pick up on
-   identification and possession constructions like "it is X", "that
-   is X", and "that's my X".  Using these constructions is to
-   participate in engaged processes, supporting them by calling
-   attention to something someone would presumably want to know.
-   Further, it has become well-established scientifically that
-   conceptual metaphor, the practice of adapting familiar schemas from
-   basic-level perception to make sense of or define more abstract or
-   complex ideas, is a kind of joint attentional scaffolding that
-   human languages get a great deal of mileage out of. Again, this is
-   a way of resolving sense-making to flows of motivated attention.
-   So it is not a deflective move to take the pragmatic turn on
-   propositionality, rather it is to face the reality that cooperative
-   attentional scaffolding is the basis of sense-making and
-   communication, and that the claim-making scenario (where what is
-   expressed may win or lose, be correct or incorrect) is no
-   exception.
+   I would like to take a moment here to revisit the insufficiency of
+   the formal propositional account of information content that is the
+   focus of Part 1 of this article.  There is a potential objection to
+   our positive neo-Wittgensteinian account (that propositions are
+   less like pictures or containers, and more like moves played in
+   games), the objection being that any such game moves can only be
+   smaller fragments of world models, and that the problem has simply
+   shifted to a finer grain.  We have already seen one way in which
+   that is not the case, that is in pre-linguistic deictic social
+   skills of joint attentional engagement.  But that is not yet true
+   claim-making, so what of the scenario of mature claim-making
+   contexts?  The fact is that the objection ignores that language
+   even in its simplest cases does not consist in formal world
+   modeling but in guiding and motivating flows of attention in a
+   collaborative process of narrative sense-making.  For consistency,
+   I will assume the usage-based model of language constructions
+   (Tomasello 2003, Goldberg 2006) as tools (which I also happen
+   believe is true, given its elegance and empirical track record.)
+   Humans are at base engaged in joint attention for the purpose of
+   cooperating on activities, and language affords powerful leverage
+   in those processes.  As an example, around 2-3 years of age
+   children begin to pick up on identification and possession
+   constructions like "it is X", "that is X", and "that's my X". Using
+   these constructions is to participate in engaged processes,
+   supporting them by calling attention to something someone would
+   presumably want to know.  Further, it has long been
+   well-established scientifically that conceptual metaphor (Ortony
+   1993), the practice of adapting familiar schemas from basic-level
+   perception to make sense of or define more abstract or complex
+   ideas.  Conceptual metaphor is a an application of joint
+   attentional scaffolding that human languages get a great deal of
+   mileage out of. Again, this is a way of resolving sense-making to
+   flows of motivated attention.  So it is not a deflective move to
+   take the pragmatic turn on propositionality, rather it is to
+   embrace the reality that cooperative attentional scaffolding is the
+   basis of sense-making and communication, and that the claim-making
+   scenario (where what is expressed may win or lose, be correct or
+   incorrect) is no exception.
 
 ** Socially Situated Programming
 
@@ -292,15 +296,15 @@
    into shorter real-time feedback loop with events of interest to its
    users.  Rich Hickey has emphasized the importance of this
    embeddedness and feedback for creating reliably effective software
-   systems, whereas others such as Jelle van Dijk and Bret Victor have
-   focused on the implications of immersive technologies on embodied
-   engagement with direct environments as we experiment with a
-   plethora of new kinds of devices, sensors, and instruments. Others
-   such as William J. Clancey and Rodney Brooks have focused on the
-   importance of environment embeddedness for the intelligence of
-   artificial agents. The common theme in all of these approaches is a
-   reorientation of computing to be more ubiquitously agent-centered,
-   context-sensitive, and feedback-oriented.
+   systems, whereas others such as Jelle van Dijk, M Eifler, and Bret
+   Victor have focused on the implications of immersive technologies
+   on embodied engagement with direct environments as we experiment
+   with a plethora of new kinds of devices, sensors, and
+   instruments. Others such as William J. Clancey and Rodney Brooks
+   have focused on the importance of environment embeddedness for the
+   intelligence of artificial agents. The common theme in all of these
+   approaches is a reorientation of computing to be more ubiquitously
+   agent-centered, context-sensitive, and feedback-oriented.
 
    Phoebe Sengers (1996) coined the term “socially situated AI” to
    refer to approaches to AI that are not only aware of the agent its
@@ -319,7 +323,7 @@
    "socially situated computing" is at an appropriate level of
    generality in its non-commitment to specifics for the current state
    of the art, but at the same time it is unsatisfying because it
-   doesn't get into specfically *how* computing is to be involved in
+   doesn't get into specifically /how/ computing is to be involved in
    contexts where content is maintained.  As I see it, this problem
    has two sides to it: a causal decision science problem and a
    human-computer interaction problem-- and I believe they have one
@@ -327,14 +331,16 @@
    Carpenter's work on joint attention.  The attentional skills of
    sharing, following-into, and directing are intuitively accessible
    to 9-to-12-month old babies, so they make for an effective deictic
-   "language" for scaffolding attention *in situ*.  This becomes a
-   software interaction model when we consider the idea of software
-   agents as an interface to machine behaviors.  Software agents for
-   their part need the right sorts of data in order to carry out the
-   intents of users who they act on behalf of.  What I am proposing is
-   that instrumenting and augmenting user actions of attending, at the
-   granularity of Tomasello's attention primitives, provides the kind
-   of data needed for scaffolding of software agents.
+   vocabulary for scaffolding attention /in situ/.  This becomes a
+   human-computer interaction model when we apply it to the idea of
+   software agents acting on behalf of users, as an interface to
+   machine-executed behaviors.  Software agents for their part need
+   data that let them optimize decisions to maintain attentional
+   preferences expressed by users who they act on behalf of.  What I
+   am proposing is that instrumenting and augmenting user actions of
+   attending, at the granularity of Tomasello's attention primitives,
+   provides the kind of data needed for scaffolding of software
+   agents.
 
    I call this approach "narrative process scaffolding". The name and
    idea evolved in part from consideration of "robotic process
@@ -360,48 +366,39 @@
    learn what works and repeat our successes, whether the "we" here
    refers to our software agents or our efforts as people.
 
+** Attentional Resource Allocation
+
    Because a person's time spent attending is a scarce resource, the
    data of attending constitutes an honest signal of causal
    motivation.  Additionally, centers result in "getting somewhere",
    whether it be an advantageous state of possibility to attend to
    something else, or an overtly conventional form of point-scoring.
    The context I envision for these peer exchanges is the notion of a
-   personal attention system.  Individually it is in one's interest to
-   have agents optimize the allocation of attention, and that is what
-   such a system is for.  Between participants in social environments
-   a protocol for negotiating targets of attention and tracking the
-   utility of processes of engaging together is what allows personal
-   attention systems to be a nexus of socially situated computing.  I
-   anticipate the reusable scaffolding exchanged resembling causal
-   graphical models connecting attentional acts with utility of
-   outcomes, in terms of what other centers or overtly abstracted
-   social rewards (in either case to be potentially valued with the
-   human user's personal attention system) they will tend to result in
-   access to.
+   personal attention operating system that manages attentional
+   resources in line with scaffolded objectives.  Individually it is
+   in one's interests to have agents optimize the allocation of
+   attention, and that is what such a system is for.  Between
+   participants in social environments a protocol for negotiating
+   targets of attention and tracking the utility of processes of
+   engaging together is what allows personal attention systems to be a
+   nexus of socially situated computing.  I anticipate the reusable
+   scaffolding exchanged resembling causal graphical models connecting
+   attentional acts with utility of outcomes, in terms of what other
+   centers or overtly abstracted social rewards (in either case to be
+   potentially valued with the human user's personal attention system)
+   they will tend to result in access to.
 
-   I haven't yet talked about how scaffolding of generic agents in
-   attentional terms results in concrete actions being performed.
-   Here is where the notion of "instrumenting" mentioned earlier comes
-   into play.  Instruments are just programs that affect the
-   environment in some way, whether to learn something or have an
-   effect.  Instruments are not parameterized, and should rather be
-   regarded as simple actions to be taken without added qualification.
-   What this allows is for the data developing skillful excercise of a
-   center can involve reference to a vocabulary of overt actions in
-   the direct probing of the environment.  Agents will need to be
-   given capabilities to do things in order to be useful at all, and
-   the results of world-involving actions are relevant in developing
-   centers as causal models of attending.
+** Access to Abstraction
 
-   Given an approach like NPS, we can see how scaffolding devices such
-   as conceptual metaphor, and the gamut of linguistic constructions
-   that depend on deictic attentional context are poised to become
-   accessible to computing systems.  Today when we use a metaphor in a
-   software abstraction, it goes a long way in establishing shared
-   understanding of how to use it.  With the development of something
-   resembling NPS, figurative meaning and figurative value in socially
-   situated contexts can be captured functionally, allowing more
-   comfortable declarative claims to be staked out in our systems.
+   Given an approach like NPS, we can see how conceptual metaphor and
+   the gamut of linguistic constructions and language games are poised
+   to become accessible to computing systems.  Today when we use a
+   metaphor in a software abstraction, it goes a long way in
+   establishing shared understanding of how to use it.  With the
+   development of something resembling NPS, figurative meaning and
+   figurative value in socially situated contexts can be captured
+   functionally, allowing more comfortably fitting declarative claims
+   to be staked out in our systems.
 
    The narrow prescription given here for "narrative process
    scaffolding" is still speculative and untested, but if it can be
@@ -429,9 +426,9 @@
    signs of a third cybernetics.
 
    The first cybernetics was an ambitious attempt to naturalize
-   philosophy and mechanize teleology.  Many of the most successful
+   teleology and mechanize cognition.  Many of the most successful
    "AI" techniques today (neural networks, reinforcement learning,
-   agents as dynamic control & feeback systems) began in that
+   agents as dynamic control & feedback systems) began in that
    movement, which is ironic because AI and its attendant "cognitive
    revolution" arose in opposition to cybernetics.  The second
    cybernetics is identified with figures such as Francisco Varela,
@@ -444,20 +441,23 @@
    Today we see the early signs of a third wave of cybernetics
    emerging.  As discussed earlier, situated and socially situated
    computing is on the rise, there is renewed interest in and success
-   of agent-based and agent-centered approachs in computing.  Giant
+   of agent-based and agent-centered approaches in computing.  Giant
    companies pour research money into nebulous efforts toward
    "cognitive computing" as a goal of agent-based computing approaches
    such as robotic process automation.  There is new life being
    breathed into efforts in computing systems that augment of human
-   agency, human-machine symbiosis, and intelligence amplication.  The
-   promise of "the metaverse" (the situated internet) is being
+   agency, human-machine symbiosis, and intelligence amplification.
+   The promise of "the metaverse" (the situated internet) is being
    cultivated in emerging web standards for augmented reality on the
    open internet. And there is a great deal of activity on freeing
-   users from servitude to centralized tech platforms, making the idea
-   of the metaverse more palatable and forseeable.  This is in many
-   ways the ideal scenario to begin experimenting with cybernetic
-   approaches to content on the open metaverse, such as those explored
-   in this article.
+   users from centralized tech platforms, putting users back in the
+   driver seat in terms of privacy and ownership of our own data.
+   This helps to make the prospect of socially situated metaverse more
+   palatable and realizable given the depth and intimacy of
+   integration of computing into personal and social experiences
+   required.  It in many ways feels like the ideal setting for the
+   emergence of socially situated computing.  We'll have to develop it
+   out and see where it takes us.
 
 ** References
 
@@ -469,25 +469,39 @@
      http://b-ok.cc/book/819455/a1f712
    + "Intelligence without representation" Brooks 1991
      https://people.csail.mit.edu/brooks/papers/representation.pdf
+   + "Metaphor and Thought" Ortony 1993
+     http://b-ok.cc/book/767226/2778f8
    + "Socially Situated AI: What It Means and Why It Matters" Sengers
      1996
      https://pdfs.semanticscholar.org/1414/7b6006180a87c139a29f0cc1584b8437e915.pdf
+   + "Computation and Human Experience" Agre 1997
+     http://b-ok.cc/book/689039/b2182d
    + "Situated Cognition: On Human Knowledge and Computer
      Representations" Clancey 1997
      http://b-ok.cc/book/859418/09e510
    + "Social cognition, joint attention, and communicative competence
      from 9 to 15 months of age."  Carpenter, Nagell, Tomasello 1998
      http://booksc.xyz/book/15451904/9e3c39
+   + "Constructing a Language: A Usage-Based Theory of Language
+     Acquisition" Tomasello 2003
+     http://b-ok.cc/book/690493/92df60
+   + "Constructions at Work: The Nature of Generalization in Language"
+     Goldberg 2006 http://b-ok.cc/book/1210861/e29e0d
    + "Origins of Human Communication" Tomasello 2008
      http://b-ok.cc/book/541274/39859f
    + "Physics, Topology, Logic and Computation: A Rosetta Stone" Baez
      & Stay 2009 http://math.ucr.edu/home/baez/rosetta.pdf
    + "Radicalizing Enactivism" Hutto & Myin 2013
      http://b-ok.cc/book/2554656/1b7ea8
+   + 'An Enactivist Approach to the Imagination: Embodied Enactments
+     and "Fictional Emotions"' José Medina 2013
+     https://www.jstor.org/stable/24475354?seq=1#page_scan_tab_contents
    + "Laws and Conventions in Language-Related Behaviors" Golonka 2015
      http://booksc.xyz/book/50082310/1e8631
    + "Strange Tools: Art and Human Nature" Noë 2015
      http://b-ok.cc/book/2640649/b1b44d
+   + "You're Doing Mixed Reality Wrong" Eifler 2017
+     https://medium.com/@blinkpop/youre-doing-mixed-reality-wrong-d32aa54ae8af
    + "Effective Programs" Hickey 2017
      https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/EffectivePrograms.md
    + "Evolving Enactivism" Hutto & Myin 2017
