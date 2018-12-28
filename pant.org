@@ -343,28 +343,28 @@
    Tomasello's attentional skill primitives, provides the kind of data
    needed to expressively scaffold software agents.
 
-   I call this approach "narrative process scaffolding". The name and
-   idea evolved in part from consideration of "robotic process
-   automation" with which it shares the idea of agent-based
-   interaction.  NPS differs from RPA in several ways, but primarily
-   in that there is more substance to the definition of agents.
-   "Narrative" here refers to scaffolding capturing the directedness
-   or motivatedness of attention toward its ends.  Software agents are
-   socially situated by means of attentional scaffolding and concrete
-   instrumenting.  Scaffolding is expressed in terms of what I call
-   "centers" as a way of giving names to game-like or utility-driven
-   social contexts.  With respect to a center, scaffolding is
-   expressed in the gestural language introduced above.  For example,
-   I might share a center with a friend as way of involving them in
-   what I'm doing, implying it might be worth their time.  If the
-   friend is interested, they might follow-into that context.  When in
-   the context, either of us might recommend that another center is of
-   importance or helpful toward this center.  And then there is the
-   decision to exit or continue, either out of boredom or due to
-   success of some kind.  Whatever the case, we would like to keep
-   track of this experience so that we can learn what works and repeat
-   our successes, whether the "we" doing the work here is software
-   agents or people.
+   I call this approach "narrative process scaffolding" (Levy
+   2018). The name and idea evolved in part from consideration of
+   "robotic process automation" with which it shares the idea of
+   agent-based interaction.  NPS differs from RPA in several ways, but
+   primarily in that there is more substance to the definition of
+   agents.  "Narrative" here refers to scaffolding capturing the
+   directedness or motivatedness of attention toward its ends.
+   Software agents are socially situated by means of attentional
+   scaffolding and concrete instrumenting.  Scaffolding is expressed
+   in terms of what I call "centers" as a way of giving names to
+   game-like or utility-driven social contexts.  With respect to a
+   center, scaffolding is expressed in the gestural language
+   introduced above.  For example, I might share a center with a
+   friend as way of involving them in what I'm doing, implying it
+   might be worth their time.  If the friend is interested, they might
+   follow-into that context.  When in the context, either of us might
+   recommend that another center is of importance or helpful toward
+   this center.  And then there is the decision to exit or continue,
+   either out of boredom or due to success of some kind.  Whatever the
+   case, we would like to keep track of this experience so that we can
+   learn what works and repeat our successes, whether the "we" doing
+   the work here is software agents or people.
 
 ** Attentional Resource Allocation
 
@@ -507,6 +507,9 @@
      https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/EffectivePrograms.md
    + "Evolving Enactivism" Hutto & Myin 2017
      http://b-ok.cc/book/2947353/09d772
+   + "Steps to an Ecology of Bicycles for the Mind: A Socially
+     Situated Programming Manifesto" Levy 2018
+     http://senters.info/situated-programming
    + "Designing for Embodied Being-in-the-World: A Critical Analysis
      of the Concept of Embodiment in the Design of Hybrids" van Dijk 2018
      http://www.mdpi.com/2414-4088/2/1/7/pdf
