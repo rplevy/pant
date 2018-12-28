@@ -507,8 +507,8 @@
      https://github.com/matthiasn/talk-transcripts/blob/master/Hickey_Rich/EffectivePrograms.md
    + "Evolving Enactivism" Hutto & Myin 2017
      http://b-ok.cc/book/2947353/09d772
-   + "Steps to an Ecology of Bicycles for the Mind: A Socially
-     Situated Programming Manifesto" Levy 2018
+   + "Steps to an Ecology of Bicycles for the Mind: A Situated
+     Programming Manifesto" Levy 2018
      http://senters.info/situated-programming
    + "Designing for Embodied Being-in-the-World: A Critical Analysis
      of the Concept of Embodiment in the Design of Hybrids" van Dijk 2018
