@@ -379,19 +379,6 @@
 
 ** Epilogue: A Third Cybernetics?
 
-   I hope that I have been successful in making a case that socially
-   situated computing is required for functional content awareness in
-   computing systems.  The areas we've had to explore to get here are
-   in many ways foreign to the wheelhouse of the majority of
-   practicing engineers.  So a question arises, as to whether this can
-   be successful.  I believe it can be successful, because once such
-   idea are implemented in practice, their use will be very intuitive
-   and accessible to a much wider audience than traditional
-   programming has appealed to.  It will depend on execution and luck.
-   However, if it is successful, this pragmatic turn in computing will
-   be consistent with a broader trend I would identify as the early
-   signs of a third cybernetics.
-
    The first cybernetics was an ambitious attempt to naturalize
    teleology and mechanize cognition.  Many of the most successful
    "AI" techniques today (neural networks, reinforcement learning,
