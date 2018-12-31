@@ -399,33 +399,41 @@
    (situated), enactive, and extended (scaffolded).
 
    Today we see the early signs of a third wave of cybernetics
-   emerging.  Situated and socially situated computing is on the rise.
-   There is renewed interest in and success of agent-based and
-   agent-centered approaches in computing.  Giant companies pour
-   research money into nebulous efforts toward "cognitive computing"
-   as a goal of agent-based computing approaches such as robotic
-   process automation.  There is new life being breathed into
-   augmenting human agency, human-machine symbiosis, and intelligence
-   amplification.  The promise of "the metaverse" (the situated
-   internet) is being cultivated in emerging web standards for
-   augmented reality on the open internet. Self-sovereign identity,
-   user ownership of data, and attentional sovereignty make the
-   prospect of socially situated content-involving metaverse, an
-   "electronic noosphere" more ethical and humane, as the depth and
-   intimacy of integration of computing into personal and social
-   experiences poses problems for the traditional server model.
-
-   The first cybernetics tackled teleological mechanisms as physical
-   control systems, whereas the second sought an understanding of
-   second-order or self-organizing autonomous systems. The potential
-   ramifications of socially situated computing and related trends
-   suggest the third cybernetics will turn a microscope, and
-   ultimately a telescope, on the 3rd-order process by which
-   autonomous self-organizing agents engage in joint attentional
+   emerging.  The first cybernetics tackled teleological mechanisms as
+   physical control systems, whereas the second sought an
+   understanding of second-order or self-organizing autonomous
+   systems. The potential ramifications of socially situated computing
+   and related trends suggest the third cybernetics will turn a
+   microscope, and ultimately a telescope, on the 3rd-order process by
+   which autonomous self-organizing agents engage in joint attentional
    cooperation, and participate in claim-making processes constituting
    the narrative construction of the content of all of culture and
    conceptual thought.  The third-order cybernetics is the one that
-   would expose the workings of culture/mind to tractible computation.
+   would expose the workings of culture and personality to tractible
+   computation.
+
+   Situated and socially situated computing is on the rise.  There is
+   renewed interest in and success of agent-based and agent-centered
+   approaches in computing.  Giant companies pour research money into
+   nebulous efforts toward "cognitive computing" as a goal of
+   agent-based computing approaches such as robotic process
+   automation.  There is new life being breathed into augmenting human
+   agency, human-machine symbiosis, and intelligence amplification.
+   The promise of "the metaverse" (the situated internet) is being
+   cultivated in emerging web standards for augmented reality on the
+   open internet. Self-sovereign identity, user ownership of data, and
+   attentional sovereignty make the prospect of socially situated
+   content-involving metaverse, an "electronic noosphere" more ethical
+   and humane. Importantly securing sovereignty of identity and
+   attention provides the base of necessary confidence required for
+   participation in systems that inherently demand great depth and
+   intimacy of integration of computing into personal and social
+   experiences.  Such deep integration of computing into human
+   sense-making is likely to radically alter the human cognitive niche
+   in ways that we as future individuals and networks will be in
+   control of, but which appear impossible to form any detailed
+   expectations about at present without actually beginnning to
+   undergo it.
 
 ** References
 
