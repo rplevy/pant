@@ -360,9 +360,9 @@
    present center", and "does the availability of this other center
    indicates the outcome has been reached or is being maintained".  I
    have called this approach of using /in situ/ gestures to define
-   causal models that scaffolding intentional agent behaviors
-   "narrative process scaffolding" (Levy 2018) because motivating
-   joint attention in this way is the mechanism underlying narrative
+   causal models that scaffold intentional agent behaviors "narrative
+   process scaffolding" (Levy 2018) because motivating joint attention
+   in this way is theorized to be fundamental mechanism of narrative
    sense-making generally, including processes of claim-making that
    underpin propositional content.
 
