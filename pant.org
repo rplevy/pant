@@ -322,25 +322,26 @@
 
    To answer the question posed earlier "how can machines participate
    meaningfully and effectively in content" with the broad brush of
-   "socially situated computing" is at appropriately non-committal
-   given the current nascent state of the art, but at the same time it
-   is unsatisfying because it doesn't get into specifically /how/ one
+   "socially situated computing" is appropriately non-committal given
+   the current nascent state of the art, but at the same time it is
+   unsatisfying because it doesn't get into specifically /how/ one
    might go about involving computing in contexts where content is
    maintained.  As I see it, this problem has two sides to it: a
    causal decision science problem (Pearl 2000, 2018) and a
-   human-computer interaction problem. On the human side, expression
+   human-computer interaction problem: on the human side, expression
    of causal motivation of attention, and on the machine side, causal
-   inference to contribute relevant actions within these contexts.
-   Following Tomasello and Carpenter's work on joint attention, the
-   attentional skills of sharing, following-into, and directing are
-   intuitively accessible to 9-to-12-month old babies.  This research
-   suggests that the skillful navigation of contexts of attending
-   constitutes our ability to express and understand intentions.  In
-   other words, intending is decision-making about attending (and
-   nothing else). If you know *why* an agent is attending, then you
-   know what they are intending (limited to that specific context, of
-   course). "Why attending" and "what intending" are different ways of
-   expressing the same thing.
+   inference by agents selecting actions that contribute helpfully
+   within these contexts.  Following Tomasello and Carpenter's work on
+   joint attention, the attentional skills of sharing, following-into,
+   and directing are intuitively accessible to 9-to-12-month old
+   babies.  This research suggests that the skillful navigation of
+   contexts of attending constitutes our ability to express and
+   understand intentions.  In other words, intending is
+   decision-making about attending (and nothing else). If you
+   know *why* an agent is attending, then you know what they are
+   intending (limited to that specific context, of course). "Why
+   attending" and "what intending" are different ways of expressing
+   the same thing.
 
    By establishing a protocol codifying joint attentional decisions
    into a set of simple gestures, we can make use of the basic joint
@@ -359,7 +360,7 @@
    present center", and "does the availability of this other center
    indicates the outcome has been reached or is being maintained".  I
    have called this approach of using /in situ/ gestures to define
-   causal models that scaffolding intenional agent behaviors
+   causal models that scaffolding intentional agent behaviors
    "narrative process scaffolding" (Levy 2018) because motivating
    joint attention in this way is the mechanism underlying narrative
    sense-making generally, including processes of claim-making that
