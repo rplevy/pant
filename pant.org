@@ -393,24 +393,21 @@
    (situated), enactive, and extended (scaffolded).
 
    Today we see the early signs of a third wave of cybernetics
-   emerging.  As discussed earlier, situated and socially situated
-   computing is on the rise, there is renewed interest in and success
-   of agent-based and agent-centered approaches in computing.  Giant
-   companies pour research money into nebulous efforts toward
-   "cognitive computing" as a goal of agent-based computing approaches
-   such as robotic process automation.  There is new life being
-   breathed into augmenting human agency, human-machine symbiosis, and
-   intelligence amplification.  The promise of "the metaverse" (the
-   situated internet) is being cultivated in emerging web standards
-   for augmented reality on the open internet. And there is a great
-   deal of activity on freeing users from centralized tech platforms,
-   putting users back in the driver seat in terms of privacy and
-   ownership of our own data.  This helps to make the prospect of
-   socially situated metaverse more palatable and realizable given the
-   depth and intimacy of integration of computing into personal and
-   social experiences required.  It in many ways feels like the ideal
-   setting for the emergence of socially situated computing.  We'll
-   have to develop it out and see where it takes us.
+   emerging.  Situated and socially situated computing is on the rise.
+   There is renewed interest in and success of agent-based and
+   agent-centered approaches in computing.  Giant companies pour
+   research money into nebulous efforts toward "cognitive computing"
+   as a goal of agent-based computing approaches such as robotic
+   process automation.  There is new life being breathed into
+   augmenting human agency, human-machine symbiosis, and intelligence
+   amplification.  The promise of "the metaverse" (the situated
+   internet) is being cultivated in emerging web standards for
+   augmented reality on the open internet. Self-sovereign identity,
+   user ownership of data, and attentional sovereignty make the
+   prospect of socially situated content-involving metaverse, an
+   "electronic noosphere" more ethical and humane, as the depth and
+   intimacy of integration of computing into personal and social
+   experiences poses problems for the traditional server model.
 
 ** References
 
