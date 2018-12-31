@@ -366,18 +366,6 @@
    sense-making generally, including processes of claim-making that
    underpin propositional content.
 
-** Access to Abstraction
-
-   Given an approach like NPS, we can see how conceptual metaphor and
-   the gamut of linguistic constructions and language games are poised
-   to become accessible to computing systems.  Today when we use a
-   metaphor in a software abstraction, it goes a long way in
-   establishing shared understanding of how to use it.  With the
-   development of something resembling NPS, figurative meaning and
-   figurative value in socially situated contexts can be captured
-   functionally, allowing more comfortably fitting declarative claims
-   to be staked out in our systems.
-
    The narrow prescription given here for "narrative process
    scaffolding" is still speculative and untested, but if it is
    developed into a robust practical computing paradigm, it is
