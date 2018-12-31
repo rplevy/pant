@@ -403,7 +403,7 @@
    processes constituting the narrative construction of the content of
    all of culture and conceptual thought.  The third-order cybernetics
    is the one that would expose the workings of culture and
-   personality to tractible computation.
+   personality to tractable computation.
 
    Situated and socially situated computing is on the rise.  There is
    renewed interest in and success of agent-based and agent-centered
@@ -425,8 +425,8 @@
    sense-making is likely to radically alter the human cognitive niche
    in ways that we as future individuals and networks will be in
    control of, but which appear impossible to form any detailed
-   expectations about at present without actually beginnning to
-   undergo it.
+   expectations about at present without actually beginning to undergo
+   it.
 
 ** References
 
