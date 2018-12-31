@@ -385,32 +385,25 @@
 
 ** Epilogue: A Third Cybernetics?
 
-   The first cybernetics was an ambitious attempt to naturalize
-   teleology and mechanize cognition.  Many of the most successful
-   "AI" techniques today (neural networks, reinforcement learning,
-   agents as dynamic control & feedback systems) began in that
-   movement, which is ironic because AI and its attendant "cognitive
-   revolution" arose in opposition to cybernetics.  The second
-   cybernetics is identified with figures such as Francisco Varela,
-   autopoiesis, autonomy, and enaction-- ideas that would, notably
-   along with cybernetics' pragmatically turned cousin ecological
-   psychology, come to dominate what remains of cognitive science,
-   under the new heading of 4E Cognitive Science: embodied, embedded
-   (situated), enactive, and extended (scaffolded).
-
    Today we see the early signs of a third wave of cybernetics
    emerging.  The first cybernetics tackled teleological mechanisms as
-   physical control systems, whereas the second sought an
-   understanding of second-order or self-organizing autonomous
-   systems. The potential ramifications of socially situated computing
-   and related trends suggest the third cybernetics will turn a
-   microscope, and ultimately a telescope, on the 3rd-order process by
-   which autonomous self-organizing agents engage in joint attentional
-   cooperation, and participate in claim-making processes constituting
-   the narrative construction of the content of all of culture and
-   conceptual thought.  The third-order cybernetics is the one that
-   would expose the workings of culture and personality to tractible
-   computation.
+   physical control systems. Many of the most successful "AI"
+   techniques today (neural networks, reinforcement learning, agents
+   as dynamic control & feedback systems) began in that movement,
+   which is ironic because AI and its attendant "cognitive revolution"
+   arose in opposition to cybernetics.  The second cybernetics sought
+   an understanding of second-order or self-organizing autonomous
+   systems.  Such efforts eventually became part of 4E Cognitive
+   Science: embodied, embedded (situated), enactive, and extended
+   (scaffolded).  The potential ramifications of socially situated
+   computing and related trends suggest the third cybernetics will
+   turn a microscope, and ultimately a telescope, on the 3rd-order
+   processes by which autonomous self-organizing agents engage in
+   joint attentional cooperation, and participate in claim-making
+   processes constituting the narrative construction of the content of
+   all of culture and conceptual thought.  The third-order cybernetics
+   is the one that would expose the workings of culture and
+   personality to tractible computation.
 
    Situated and socially situated computing is on the rise.  There is
    renewed interest in and success of agent-based and agent-centered
