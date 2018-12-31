@@ -358,11 +358,17 @@
    this center cause this outcome", "does attending to this other
    center influence positively or negatively the outcome of the
    present center", and "does the availability of this other center
-   indicates the outcome has been reached or is being maintained".  I
-   have called this approach of using /in situ/ gestures to define
-   causal models that scaffold intentional agent behaviors "narrative
-   process scaffolding" (Levy 2018) because motivating joint attention
-   in this way is theorized to be fundamental mechanism of narrative
+   indicates the outcome has been reached or is being maintained".
+   It’s important to note here that these causal models are
+   propositional in our human-to-human description of them in talking
+   about the approach, but in use they are modeling the causal
+   properties of non-propositional capacities of expression.  It is
+   through the use of these capacities in explicitly claim-making
+   processes that actual machine-accessible content emerges.  I have
+   called the approach of using /in situ/ gestures to define causal
+   models that scaffold intentional agent behaviors "narrative process
+   scaffolding" (Levy 2018) because motivating joint attention in this
+   way is theorized to be fundamental mechanism of narrative
    sense-making generally, including processes of claim-making that
    underpin propositional content.
 
@@ -408,6 +414,18 @@
    "electronic noosphere" more ethical and humane, as the depth and
    intimacy of integration of computing into personal and social
    experiences poses problems for the traditional server model.
+
+   The first cybernetics tackled teleological mechanisms as physical
+   control systems, whereas the second sought an understanding of
+   second-order or self-organizing autonomous systems. The potential
+   ramifications of socially situated computing and related trends
+   suggest the third cybernetics will turn a microscope, and
+   ultimately a telescope, on the 3rd-order process by which
+   autonomous self-organizing agents engage in joint attentional
+   cooperation, and participate in claim-making processes constituting
+   the narrative construction of the content of all of culture and
+   conceptual thought.  The third-order cybernetics is the one that
+   would expose the workings of culture/mind to tractible computation.
 
 ** References
 
